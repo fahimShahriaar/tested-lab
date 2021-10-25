@@ -1,0 +1,17 @@
+.nav-link{
+ color: white;
+}
+.nav-link:hover{
+    /* color: black !important;
+    border-bottom: 1px solid rgb(86, 171, 204); */
+}
+
+.custom-border{
+    border: 2px solid rgb(8, 105, 105);
+    border-radius: 10px;
+    margin-right: 5px;
+    display: inline-block;
+}
+.navClass{
+    background-color: #84B4B4;
+}

@@ -1,0 +1,10 @@
+.item{
+  justify-content:space-around;
+  align-items: flex-start;
+}
+.footer{
+    background-color: #84B4B4 !important;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}

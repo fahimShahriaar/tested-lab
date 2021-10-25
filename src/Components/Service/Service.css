@@ -1,0 +1,9 @@
+.img{
+    width: 14rem;
+    height: 10rem;
+}
+.btn-custom{
+    background-color: rgb(29, 173, 173);
+    /* background-color: rgb(92, 223, 223); */
+    color: white;
+  }
